@@ -1,0 +1,19 @@
+# Local, Docker, and Hugging Face (same file everywhere)
+gradio==4.44.0
+spaces
+huggingface_hub>=0.23.2,<0.26.0
+starlette>=0.40.0,<1.0.0
+python-dotenv==1.0.1
+pydantic==2.7.4
+pinecone
+langchain==0.2.16
+langchain-core==0.2.38
+langchain-community==0.2.16
+langchain-text-splitters==0.2.4
+langchain-openai==0.1.23
+langchain-google-genai==1.0.10
+google-generativeai==0.7.2
+langgraph==0.2.4
+openai>=1.0.0
+pypdf
+docx2txt
