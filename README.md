@@ -1,8 +1,6 @@
 # Day 1 Workshop — RAG → Agent → Multi-Agent
 
 Hands-on exercises for building a **grounded research assistant**: upload a document, store it in Pinecone, and answer questions using only what's in that document.
-
-**Instructor slides:** [`Workshop_Presentation.md`](Workshop_Presentation.md)  
 **RAG concepts:** [`RAG_From_Classic_to_Agentic.md`](RAG_From_Classic_to_Agentic.md)
 
 ---
